@@ -1,0 +1,1 @@
+{"name":"GunJun","job":"Developer","BFF":"Chewbacca","ship":"Millennium Falcon","weakness":"smuggling debts"}
